@@ -6,4 +6,10 @@
     <string name="get_started">GET STARTED</string>
     <string name="welcome_background_pic_description">A green basketball court with people playing basketball.</string>
     <string name="logo_description">The app logo Swoosh</string>
+    <string name="league_background">A basketball court with green and purple</string>
+    <string name="league_title">Desired League:</string>
+    <string name="league_mens">Mens</string>
+    <string name="league_womens">Womens</string>
+    <string name="league_coed">Co-ed</string>
+    <string name="next">NEXT</string>
 </resources>
