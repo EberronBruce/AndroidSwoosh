@@ -1,4 +1,4 @@
-package com.redravencomputing.swoosh
+package com.redravencomputing.swoosh.Controller
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
